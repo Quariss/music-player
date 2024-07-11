@@ -1,4 +1,4 @@
-**Müzik Çalar Uygulaması
+*Müzik Çalar Uygulaması
 
 Bu Python uygulaması basit bir müzik çaları simüle eder. Kullanıcı, program aracılığıyla müzik dosyalarını seçebilir, oynatabilir ve durdurabilir.
 
