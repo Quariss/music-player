@@ -1,10 +1,13 @@
-Müzik Çalar Uygulaması
+**Müzik Çalar Uygulaması
+
 Bu Python uygulaması basit bir müzik çaları simüle eder. Kullanıcı, program aracılığıyla müzik dosyalarını seçebilir, oynatabilir ve durdurabilir.
 
-Gereksinimler
+**Gereksinimler
+
 Uygulamanın çalışması için Python 3 gereklidir. Ayrıca, çalma listesi ve müzik dosyalarınızı eklemek için ses dosyalarının uygun bir biçimde (örneğin, MP3 veya WAV formatında) bulunması gerekir.
 
-Kullanım
+**Kullanım
+
 Başlatma: main.py dosyasını çalıştırarak uygulamayı başlatabilirsiniz.
 
 Çalma Listesi: Uygulama başladığında, bir çalma listesi oluşturabilirsiniz.
